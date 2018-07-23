@@ -44,3 +44,9 @@ DoWhateverYouWant(people, function (people) {
         console.log(element.name.split('').join("-"));
     });
 })
+
+DoWhateverYouWant(people, function (people) {
+    people.forEach(element => {
+        console.log(element.name.split('').join("*") + " Total Letter = " + element.name.length);
+    });
+})
