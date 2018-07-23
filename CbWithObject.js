@@ -6,11 +6,11 @@
 
 
 var people = [{
-        name: 'Mustak',
+        name: 'Nayem vai',
         age: 22
     },
     {
-        name: 'Nayem vai',
+        name: 'Mustak',
         age: 22
     },
     {
